@@ -54,3 +54,8 @@ cache_from_web <- funciton(url, localName, dataDir="./",
                 "next time the script is run")
     }
 }
+
+
+giveMeConvenience <- function(){
+    print("or give me death!")
+}
